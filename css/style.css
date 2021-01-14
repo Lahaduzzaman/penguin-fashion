@@ -5,11 +5,15 @@
     color: #363958;
 }
 .h1-title{
-    
     font-family: Bebas Neue;
 }
 .button-color{
     background-color: #A4BC46;
     border: 0px;
     border-radius: .5em;
+}
+.card{
+    height: 250px;
+    width: 100%;
+    border: none;
 }
